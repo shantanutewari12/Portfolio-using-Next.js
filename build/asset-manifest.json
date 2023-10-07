@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1da26fb8.css",
+    "main.js": "/static/js/main.dfaf1bcd.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/3426526.jpg": "/static/media/3426526.84437258534c0cde5bc4.jpg",
+    "static/media/profile.8ca05271.jpg": "/static/media/profile.8ca05271.7ad8c82f56b2a02d3bb9.jpg",
+    "static/media/Shantanu Tiwari.pdf": "/static/media/Shantanu Tiwari.cbb452ad666833e1768d.pdf",
+    "static/media/D-DIN.otf": "/static/media/D-DIN.31d456695bd8dea72c8a.otf",
+    "static/media/SpaceX.ttf": "/static/media/SpaceX.b65ce75a3610ca54904e.ttf",
+    "index.html": "/index.html",
+    "main.1da26fb8.css.map": "/static/css/main.1da26fb8.css.map",
+    "main.dfaf1bcd.js.map": "/static/js/main.dfaf1bcd.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1da26fb8.css",
+    "static/js/main.dfaf1bcd.js"
+  ]
+}
